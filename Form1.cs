@@ -27,10 +27,10 @@ namespace TwitchCommandSpam
                 if(initialWait == true){
                     Thread.Sleep(5000);
                 }
-                Thread.Sleep(1000);
                 SendKeys.Send(commandToRun + " " + command);
                 SendKeys.Send("{Enter}");
                 initialWait = false;
+                Thread.Sleep(1000);
             }
             initialWait = true;
         }

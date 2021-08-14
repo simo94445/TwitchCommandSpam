@@ -96,7 +96,7 @@
             this.Controls.Add(this.commandBox);
             this.Controls.Add(this.goButton);
             this.Name = "Form1";
-            this.Text = "TwitchChatSpammer v0.1";
+            this.Text = "TwitchCommandSpammer v0.1";
             this.ResumeLayout(false);
             this.PerformLayout();
 
