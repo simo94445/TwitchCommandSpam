@@ -3,7 +3,7 @@ Run commands for a lot of users
 <br />
 Example, if you want to run the command /ban for a list of bots:
 <br />
-in the big textbox, type the names you want to run the command for like:
+in the big textbox, type the names you want to run the command for like:<br />
 <br />
 user1<br />
 user2<br />
