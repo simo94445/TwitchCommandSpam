@@ -1,5 +1,5 @@
 # TwitchCommandSpam
-Run commands for a lot of users
+Run commands for a lot of users.
 <br />
 Example, if you want to run the command /ban for a list of bots:
 <br />
