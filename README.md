@@ -11,8 +11,8 @@ user3<br />
 user4<br />
 user5<br />
 <br />
-and in the command textbox, you can type something like:
+and in the command textbox, you can type something like:<br />
 <br />
-/ban
+/ban<br />
 <br />
-You then click "Go!", the script will wait 5 seconds in which you have time to enter the chat for your stream, then it will start typing out the command for each user with a 1 second delay between each message.
+<br />You then click "Go!", the script will wait 5 seconds in which you have time to enter the chat for your stream, then it will start typing out the command for each user with a 1 second delay between each message.
